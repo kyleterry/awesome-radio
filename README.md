@@ -1,4 +1,6 @@
-# Kyle's Radio Resources
+# Awesome Radio (No, not the music kind)
+
+A curated list of awesome radio resources.
 
 I recently pulled out my CB radio and installed it in my truck. This inspired me
 to create an open source repository of all the radio related resources I found
