@@ -39,3 +39,7 @@ higher than 2 should be considered a no-no since it can damage your radio and
 give pour transmission.
 
 [How to tune SWR](http://www.rightchannelradios.com/tuning-cb-antenna-adjusting-swr).
+
+## GNU Radio
+
+TODO: This is for when I get around to checking out GNU Radio projects.
