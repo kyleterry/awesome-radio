@@ -15,7 +15,8 @@ for parts, radios, antennas and mounts.
 [CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)  
 [Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)  
 [Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)  
-[CB FAQ](http://www.advancedspecialties.net/cb-radio-faq.htm)
+[CB FAQ](http://www.advancedspecialties.net/cb-radio-faq.htm)  
+[Frequency Table](http://www.radioreference.com/apps/db/?aid=7731)  
 
 ### General Use
 
