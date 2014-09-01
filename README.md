@@ -4,6 +4,12 @@ I recently pulled out my CB radio and installed it in my truck. This inspired me
 to create an open source repository of all the radio related resources I found
 helpful and my notes on the subject.
 
+## General
+
+### Links
+
+[Radio Spectrum (wikipedia)](http://en.wikipedia.org/wiki/Radio_spectrum)
+
 ## CB
 
 ### Links
