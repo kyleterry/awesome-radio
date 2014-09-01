@@ -13,7 +13,8 @@ for parts, radios, antennas and mounts.
 [CB Slang](http://www.cbslang.com/) - mostly humorous, but kinda helpful.  
 [CB Slang (wikipedia)](http://en.wikipedia.org/wiki/List_of_CB_slang)  
 [CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)  
-[Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)
+[Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)  
+[Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)
 
 ### General Use
 
