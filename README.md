@@ -30,6 +30,16 @@ the current generation pretty much only using cell phones, it's easy to forget
 that using something as "primitive" as a CB radio is essentially [roadcast to
 the world](http://en.wikipedia.org/wiki/Citizens_band_radio#Working_skip).
 
+Truckers tend to use channel 19. This is a good channel to monitor for traffic
+conditions.
+
+Channel 09 is for emergencies only. No general chatter on this channel. If you
+are broke down, or your car catches fire, besides calling 911, this is a good
+channel to transmit on for help.
+
+Around Portland, I hear a lot of chatter on channels 06, 17 and 28. These are
+good channels for entertaining conversation.
+
 ### SWR
 
 SWR, or Standing Wave Ration is a measurement of efficiency when connecting your
@@ -37,7 +47,7 @@ antenna to your radio.
 
 Optimum ration 1:1. Although you'll probably end up with 1.3 or so. Anything
 higher than 2 should be considered a no-no since it can damage your radio and
-give pour transmission.
+give poor transmission.
 
 [How to tune SWR](http://www.rightchannelradios.com/tuning-cb-antenna-adjusting-swr).
 
