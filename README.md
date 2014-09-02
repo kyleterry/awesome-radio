@@ -10,6 +10,7 @@ helpful and my notes on the subject.
 
 ### Links
 
+* [Radio (wikipedia)](http://en.wikipedia.org/wiki/Radio)
 * [Radio Spectrum (wikipedia)](http://en.wikipedia.org/wiki/Radio_spectrum)
 * [Skywave (skip) (wikipedia)](http://en.wikipedia.org/wiki/Skywave)
 
@@ -28,14 +29,14 @@ real time traffic updates, alternate routes and accident warnings.
 ### Links
 
 * [Right Channel Radios](http://www.rightchannelradios.com/) - Good online shop
-for parts, radios, antennas and mounts.  
-* [CB Slang](http://www.cbslang.com/) - mostly humorous, but kinda helpful.  
-* [CB Slang (wikipedia)](http://en.wikipedia.org/wiki/List_of_CB_slang)  
-* [CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)  
-* [Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)  
-* [Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)  
-* [CB FAQ](http://www.advancedspecialties.net/cb-radio-faq.htm)  
-* [Frequency Table](http://www.radioreference.com/apps/db/?aid=7731)  
+for parts, radios, antennas and mounts.
+* [CB Slang](http://www.cbslang.com/) - mostly humorous, but kinda helpful.
+* [CB Slang (wikipedia)](http://en.wikipedia.org/wiki/List_of_CB_slang)
+* [CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)
+* [Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)
+* [Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)
+* [CB FAQ](http://www.advancedspecialties.net/cb-radio-faq.htm)
+* [Frequency Table](http://www.radioreference.com/apps/db/?aid=7731)
 
 ### General Use
 
