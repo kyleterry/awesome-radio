@@ -96,7 +96,7 @@ TODO: This is for when I get around to checking out GNU Radio projects.
 
 I would like contributors for this section.
 
-## HAM Radio
+## Ham Radio
 
 TODO: This is for when I get around to checking out HAM Radio projects.
 
