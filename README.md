@@ -33,6 +33,9 @@ does not stop there. It's great for long distance travel on popular trucking
 routes. You can tune to channel 19 (an unofficial trucker's channel) and get
 real time traffic updates, alternate routes and accident warnings.
 
+Given a good antenna that's properly tuned, a typical range to expect out of
+your CB is about 2 - 5 miles (3.2 - 8 kilometers).
+
 ### Links
 
 * [Right Channel Radios](http://www.rightchannelradios.com/) - Good online shop
