@@ -98,7 +98,7 @@ I would like contributors for this section.
 
 ## Ham Radio
 
-TODO: This is for when I get around to checking out HAM Radio projects.
+TODO: This is for when I get around to checking out ham Radio projects.
 
 I would like contributors for this section.
 
