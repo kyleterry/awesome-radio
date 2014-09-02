@@ -72,7 +72,7 @@ good channels for entertaining conversation.
 
 ### SWR
 
-SWR, or Standing Wave Ration is a measurement of efficiency when connecting your
+[SWR](http://en.wikipedia.org/wiki/Standing_wave_ratio), or Standing Wave Ratio is a measurement of efficiency when connecting your
 antenna to your radio.
 
 Optimum ration 1:1. Although you'll probably end up with 1.3 or so. Anything
@@ -96,12 +96,25 @@ TODO: This is for when I get around to checking out GNU Radio projects.
 
 I would like contributors for this section.
 
-## Ham Radio
+## Amateur Radio (a.k.a Ham Radio)
 
-TODO: This is for when I get around to checking out ham Radio projects.
+The hobby of Amateur Radio has a long and proud tradition. The very first radio amateurs were true pioneers of radio technology. Amateurs 'invented' and refined much of the early radio technology and were the first to transmit music, radio plays, and information to the handful of people who had the new fangled radio receivers.
+
+After World War II the hobby of amateur radio flourished. Radio clubs sprang up in schools all over the world and kids went home each night to build some new contraption, or have a chat with someone over the wireless. These young people became the mainstay of the technical professions and developed much of the modern technology we use today. ([WIA](http://www.wia.org.au/licenses/foundation/about/))
+
+[What is Ham Radio?](http://www.arrl.org/what-is-ham-radio)
+
+#### Links
+
+* American Radio Relay League - [ARRL](http://www.arrl.org/)
+* The Wireless Institute of Australia [WIA](http://www.wia.org.au/)
+* Radio Society of Great Britain - [RSGB](http://rsgb.org/)
+* [The International Amateur Radio Union](http://www.iaru.org/)
 
 I would like contributors for this section.
 
 ### Amature Radio License
 
-TODO
+* In the [US](http://www.arrl.org/getting-licensed) there are three license classes—Technician, General and Extra.
+* [The Foundation Licence](http://www.wia.org.au/licenses/foundation/about/) in Australia.
+* [Foundation Licence] (http://rsgb.org/main/clubs-training/for-students/foundation/) in the UK.
