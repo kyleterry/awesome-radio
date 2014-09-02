@@ -25,7 +25,7 @@ Here lies introductory information about that type of radio.
 
 How is this radio used and can we use it as citizens?
 
-### Misc. Links
+### Links
 
 * [Link title](https://example.com) - [optional text describing the link]
 * [Keep it bulleted](http://example.com)

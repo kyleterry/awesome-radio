@@ -25,7 +25,7 @@ does not stop there. It's great for long distance travel on popular trucking
 routes. You can tune to channel 19 (an unofficial trucker's channel) and get
 real time traffic updates, alternate routes and accident warnings.
 
-### Misc. Links
+### Links
 
 * [Right Channel Radios](http://www.rightchannelradios.com/) - Good online shop
 for parts, radios, antennas and mounts.  
@@ -92,3 +92,5 @@ TODO: This is for when I get around to checking out HAM Radio projects.
 I would like contributors for this section.
 
 ### Amature Radio License
+
+TODO
