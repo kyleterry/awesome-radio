@@ -24,11 +24,11 @@ learning the ins and outs of radio, as well as hearing stories, new and old.
 ## CB
 
 Citizens band radio, or CB, is a two way radio spectrum dedicated to open use by
-anyone for almost any purpose. It (at least in the US and many other countries)
+anyone for almost any purpose. In the US and many other countries, it
 does not require a license to operate. CB consists of 40 channels between 26.965
 MHz and 27.405 MHz with channel 09 being dedicated to emergencies.
 
-CB is more popular among truckers and radio enthusiasts, but it's usefulness
+CB is more popular among truckers and radio enthusiasts, but its usefulness
 does not stop there. It's great for long distance travel on popular trucking
 routes. You can tune to channel 19 (an unofficial trucker's channel) and get
 real time traffic updates, alternate routes and accident warnings.
@@ -63,20 +63,19 @@ the world](http://en.wikipedia.org/wiki/Citizens_band_radio#Working_skip).
 Truckers tend to use channel 19. This is a good channel to monitor for traffic
 conditions.
 
-Channel 09 is for emergencies only. No general chatter on this channel. If you
+Channel 9 is for emergencies only. No general chatter on this channel. If you
 are broke down, or your car catches fire, besides calling 911, this is a good
 channel to transmit on for help.
 
-Around Portland, I hear a lot of chatter on channels 06, 17 and 28. These are
+Around Portland, I hear a lot of chatter on channels 6, 17 and 28. These are
 good channels for entertaining conversation.
 
 ### SWR
 
-[SWR](http://en.wikipedia.org/wiki/Standing_wave_ratio), or Standing Wave Ratio is a measurement of efficiency when connecting your
-antenna to your radio.
+[SWR](http://en.wikipedia.org/wiki/Standing_wave_ratio), or Standing Wave Ratio is a measurement of efficiency when connecting your antenna to your radio.
 
-Optimum ration 1:1. Although you'll probably end up with 1.3 or so. Anything
-higher than 2 should be considered a no-no since it can damage your radio and
+Optimum ratio is 1:1, although you'll probably end up with 1.3:1 or so. Anything
+higher than 2:1 should be considered a no-no since it can damage your radio and
 give poor transmission. Read up on [how to tune
 SWR](http://www.rightchannelradios.com/tuning-cb-antenna-adjusting-swr).
 
@@ -114,7 +113,7 @@ After World War II the hobby of amateur radio flourished. Radio clubs sprang up 
 
 I would like contributors for this section.
 
-### Amature Radio License
+### Amateur Radio License
 
 * In the [US](http://www.arrl.org/getting-licensed) there are three license classes—Technician, General and Extra.
 * [The Foundation Licence](http://www.wia.org.au/licenses/foundation/about/) in Australia.
