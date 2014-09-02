@@ -1,4 +1,4 @@
-# Awesome Radio (No, not the music kind)
+# Awesome Radio
 
 A curated list of awesome radio resources. Inspired by awesome-*.
 
