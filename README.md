@@ -67,7 +67,7 @@ Channel 9 is for emergencies only. No general chatter on this channel. If you
 are broke down, or your car catches fire, besides calling 911, this is a good
 channel to transmit on for help.
 
-Around Portland, I hear a lot of chatter on channels 06, 17 and 28. These are
+Around Portland, I hear a lot of chatter on channels 6, 17 and 28. These are
 good channels for entertaining conversation.
 
 ### SWR
