@@ -10,21 +10,32 @@ helpful and my notes on the subject.
 
 ### Links
 
-[Radio Spectrum (wikipedia)](http://en.wikipedia.org/wiki/Radio_spectrum)
+* [Radio Spectrum (wikipedia)](http://en.wikipedia.org/wiki/Radio_spectrum)
+* [Skywave (skip) (wikipedia)](http://en.wikipedia.org/wiki/Skywave)
 
 ## CB
 
-### Links
+Citizens band radio, or CB, is a two way radio spectrum dedicated to open use by
+anyone for almost any purpose. It (at least in the US and many other countries)
+does not require a license to operate. CB consists of 40 channels between 26.965
+MHz and 27.405 MHz with channel 09 being dedicated to emergencies.
 
-[Right Channel Radios](http://www.rightchannelradios.com/) - Good online shop
+CB is more popular among truckers and radio enthusiasts, but it's usefulness
+does not stop there. It's great for long distance travel on popular trucking
+routes. You can tune to channel 19 (an unofficial trucker's channel) and get
+real time traffic updates, alternate routes and accident warnings.
+
+### Misc. Links
+
+* [Right Channel Radios](http://www.rightchannelradios.com/) - Good online shop
 for parts, radios, antennas and mounts.  
-[CB Slang](http://www.cbslang.com/) - mostly humorous, but kinda helpful.  
-[CB Slang (wikipedia)](http://en.wikipedia.org/wiki/List_of_CB_slang)  
-[CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)  
-[Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)  
-[Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)  
-[CB FAQ](http://www.advancedspecialties.net/cb-radio-faq.htm)  
-[Frequency Table](http://www.radioreference.com/apps/db/?aid=7731)  
+* [CB Slang](http://www.cbslang.com/) - mostly humorous, but kinda helpful.  
+* [CB Slang (wikipedia)](http://en.wikipedia.org/wiki/List_of_CB_slang)  
+* [CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)  
+* [Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)  
+* [Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)  
+* [CB FAQ](http://www.advancedspecialties.net/cb-radio-faq.htm)  
+* [Frequency Table](http://www.radioreference.com/apps/db/?aid=7731)  
 
 ### General Use
 
@@ -55,10 +66,29 @@ antenna to your radio.
 
 Optimum ration 1:1. Although you'll probably end up with 1.3 or so. Anything
 higher than 2 should be considered a no-no since it can damage your radio and
-give poor transmission.
+give poor transmission. Read up on [how to tune
+SWR](http://www.rightchannelradios.com/tuning-cb-antenna-adjusting-swr).
 
-[How to tune SWR](http://www.rightchannelradios.com/tuning-cb-antenna-adjusting-swr).
+### Installing a mobile CB
+
+Installing your CB right is key to A) not damaging your radio hardware and B)
+getting good range and quality on both the receiving and transmitting ends.
+
+Following the advice in the following articles will ensure you have a quality
+setup.
+
+TODO: Add links
 
 ## GNU Radio
 
 TODO: This is for when I get around to checking out GNU Radio projects.
+
+I would like contributors for this section.
+
+## HAM Radio
+
+TODO: This is for when I get around to checking out HAM Radio projects.
+
+I would like contributors for this section.
+
+### Amature Radio License
