@@ -109,6 +109,7 @@ After World War II the hobby of amateur radio flourished. Radio clubs sprang up 
 * American Radio Relay League - [ARRL](http://www.arrl.org/)
 * The Wireless Institute of Australia [WIA](http://www.wia.org.au/)
 * Radio Society of Great Britain - [RSGB](http://rsgb.org/)
+* Pakistan Amateur Radio Society - [PARS](http://www.pakhams.com/)
 * [The International Amateur Radio Union](http://www.iaru.org/)
 
 I would like contributors for this section.
@@ -118,3 +119,4 @@ I would like contributors for this section.
 * In the [US](http://www.arrl.org/getting-licensed) there are three license classes—Technician, General and Extra.
 * [The Foundation Licence](http://www.wia.org.au/licenses/foundation/about/) in Australia.
 * [Foundation Licence] (http://rsgb.org/main/clubs-training/for-students/foundation/) in the UK.
+* In [Pakistan](http://www.pakhams.com/index.php?option=com_content&view=article&id=75&Itemid=92) first you apply for SWL (Short Wave Listener) membership and then you are eligible to [apply for the HAM License](http://www.pta.gov.pk/index.php?option=com_content&view=article&id=466%3Aamateur-wireless-license&catid=138%3Aguidelines&Itemid=349).
