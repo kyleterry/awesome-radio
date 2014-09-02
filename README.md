@@ -102,6 +102,6 @@ TODO: This is for when I get around to checking out Ham Radio projects.
 
 I would like contributors for this section.
 
-### Amature Radio License
+### Amateur Radio License
 
 TODO
