@@ -13,6 +13,8 @@ helpful and my notes on the subject.
 * [Radio (wikipedia)](http://en.wikipedia.org/wiki/Radio)
 * [Radio Spectrum (wikipedia)](http://en.wikipedia.org/wiki/Radio_spectrum)
 * [Skywave (skip) (wikipedia)](http://en.wikipedia.org/wiki/Skywave)
+* [Mystery signal from a
+  helicopter](http://www.windytan.com/2014/02/mystery-signal-from-helicopter.html)
 
 ## CB
 
