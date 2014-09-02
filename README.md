@@ -6,6 +6,11 @@ I recently pulled out my CB radio and installed it in my truck. This inspired me
 to create an open source repository of all the radio related resources I found
 helpful and my notes on the subject.
 
+This project is aimed at hackers who enjoy all aspects of radio communication.
+While a lot of this technology isn't usable by citizens and is heavily regulated
+by the FCC, just knowing anything about it is special. I've been interested in
+learning the ins and outs of radio, as well as hearing stories, new and old.
+
 ## General
 
 ### Links
