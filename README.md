@@ -75,8 +75,8 @@ good channels for entertaining conversation.
 SWR, or Standing Wave Ratio is a measurement of efficiency when connecting your
 antenna to your radio.
 
-Optimum ratio is 1:1, although you'll probably end up with 1.3 or so. Anything
-higher than 2 should be considered a no-no since it can damage your radio and
+Optimum ratio is 1:1, although you'll probably end up with 1.3:1 or so. Anything
+higher than 2:1 should be considered a no-no since it can damage your radio and
 give poor transmission. Read up on [how to tune
 SWR](http://www.rightchannelradios.com/tuning-cb-antenna-adjusting-swr).
 
