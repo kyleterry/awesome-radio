@@ -110,6 +110,7 @@ After World War II the hobby of amateur radio flourished. Radio clubs sprang up 
 * Radio Society of Great Britain - [RSGB](http://rsgb.org/)
 * Pakistan Amateur Radio Society - [PARS](http://www.pakhams.com/)
 * [The International Amateur Radio Union](http://www.iaru.org/)
+* [Japanese asteroid mission](http://www.arrl.org/news/amateur-radio-transponder-will-accompany-japanese-asteroid-mission-into-deep-space)
 
 I would like contributors for this section.
 
