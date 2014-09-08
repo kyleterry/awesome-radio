@@ -20,6 +20,7 @@ learning the ins and outs of radio, as well as hearing stories, new and old.
 * [Skywave (skip) (wikipedia)](http://en.wikipedia.org/wiki/Skywave)
 * [Mystery signal from a
   helicopter](http://www.windytan.com/2014/02/mystery-signal-from-helicopter.html)
+* [Portable SDR](http://hackaday.io/project/1538-PortableSDR)
 
 ## CB
 
