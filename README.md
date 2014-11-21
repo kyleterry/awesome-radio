@@ -90,11 +90,22 @@ setup.
 
 TODO: Add links
 
-## GNU Radio
+## SDR (Software Defined Radio)
 
 TODO: This is for when I get around to checking out GNU Radio projects.
 
 I would like contributors for this section.
+
+### Hardware
+* __Recommended starter hardware__ On the low end, [RTL-SDR](http://sdr.osmocom.org/trac/wiki/rtl-sdr) is a super-cheap usb dongle, around which a thriving community has been founded.
+* On the other side of the cost spectrum, [pervices](http://www.pervices.com/) makes some really high-throughput, PCIe devices for when you need to log all the traffic ever. The software and community support for this is less good, though (for which you can blame @outofculture).
+* You can also browse through the [big list](https://gnuradio.org/redmine/projects/gnuradio/wiki/Hardware) of all compatible hardware.
+* Antennas are their own body of options and tradeoffs, about which I know nothing.
+
+### Software
+Depending on the hardware you're using, it may ship with some demo software to play around with. This is great for just getting a chance to see some waves and start to get an idea of what's possible. Otherwise, [GNU Radio](https://gnuradio.org/redmine/) is going to where you'll spend your time. It's mainly just a library, but it also has a supporting gui for combining processing blocks that then outputs python. Once you're more comfortable, you can also just use GNURadio to do any device tuning, setup and i/o, and then use numpy for the signal manipulation math.
+
+Just visualizing and manually inspecting a signal is a valuable part of learning how to work with them. [Baudline](http://www.baudline.com/) is a janky old thing, but it's the best there is. Be forewarned that learning the UI won't come easily to anyone.
 
 ## Amateur Radio (a.k.a Ham Radio)
 
