@@ -92,8 +92,6 @@ TODO: Add links
 
 ## SDR (Software Defined Radio)
 
-TODO: This is for when I get around to checking out GNU Radio projects.
-
 I would like contributors for this section.
 
 ### Hardware
