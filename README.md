@@ -121,6 +121,7 @@ After World War II the hobby of amateur radio flourished. Radio clubs sprang up 
 * Pakistan Amateur Radio Society - [PARS](http://www.pakhams.com/)
 * [The International Amateur Radio Union](http://www.iaru.org/)
 * [Japanese asteroid mission](http://www.arrl.org/news/amateur-radio-transponder-will-accompany-japanese-asteroid-mission-into-deep-space)
+* [Slow-scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
 
 I would like contributors for this section.
 
