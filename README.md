@@ -94,6 +94,11 @@ TODO: Add links
 
 I would like contributors for this section.
 
+### Links
+
+* [Gqrx](http://gqrx.dk/)
+* [sdrsharp on .NET](http://sdrsharp.com)
+
 ### Hardware
 * __Recommended starter hardware__ On the low end, [RTL-SDR](http://sdr.osmocom.org/trac/wiki/rtl-sdr) is a super-cheap usb dongle, around which a thriving community has been founded.
 * On the other side of the cost spectrum, [pervices](http://www.pervices.com/) makes some really high-throughput, PCIe devices for when you need to log all the traffic ever. The software and community support for this is less good, though (for which you can blame @outofculture).
