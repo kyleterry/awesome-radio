@@ -37,18 +37,6 @@ real time traffic updates, alternate routes and accident warnings.
 Given a good antenna that's properly tuned, a typical range to expect out of
 your CB is about 2 - 5 miles (3.2 - 8 kilometers).
 
-### Links
-
-* [Right Channel Radios](http://www.rightchannelradios.com/) - Good online shop
-for parts, radios, antennas and mounts.
-* [CB Slang](http://www.cbslang.com/) - mostly humorous, but kinda helpful.
-* [CB Slang (wikipedia)](http://en.wikipedia.org/wiki/List_of_CB_slang)
-* [CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)
-* [Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)
-* [Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)
-* [CB FAQ](http://www.advancedspecialties.net/cb-radio-faq.htm)
-* [Frequency Table](http://www.radioreference.com/apps/db/?aid=7731)
-
 ### General Use
 
 I've found a lot of my information on Jeep and trucker forums. From my own
@@ -58,7 +46,7 @@ letting a "fuck" or a "shit" go.
 
 CB is public. Very public. That seems like a "no shit" kind of thing, but with
 the current generation pretty much only using cell phones, it's easy to forget
-that using something as "primitive" as a CB radio is essentially [roadcast to
+that using something as "primitive" as a CB radio is essentially [broadcast to
 the world](http://en.wikipedia.org/wiki/Citizens_band_radio#Working_skip).
 
 Truckers tend to use channel 19. This is a good channel to monitor for traffic
@@ -73,7 +61,8 @@ good channels for entertaining conversation.
 
 ### SWR
 
-[SWR](http://en.wikipedia.org/wiki/Standing_wave_ratio), or Standing Wave Ratio is a measurement of efficiency when connecting your antenna to your radio.
+[SWR](http://en.wikipedia.org/wiki/Standing_wave_ratio), or Standing Wave Ratio
+is a measurement of efficiency when connecting your antenna to your radio.
 
 Optimum ratio is 1:1, although you'll probably end up with 1.3:1 or so. Anything
 higher than 2:1 should be considered a no-no since it can damage your radio and
@@ -88,9 +77,25 @@ getting good range and quality on both the receiving and transmitting ends.
 Following the advice in the following articles will ensure you have a quality
 setup.
 
-TODO: Add links
+### Links
+
+* [Right Channel Radios](http://www.rightchannelradios.com/) - Good online shop
+for parts, radios, antennas and mounts.
+* [CB Slang](http://www.cbslang.com/) - mostly humorous, but kinda helpful.
+* [CB Slang (wikipedia)](http://en.wikipedia.org/wiki/List_of_CB_slang)
+* [CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)
+* [Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)
+* [Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)
+* [CB FAQ](http://www.advancedspecialties.net/cb-radio-faq.htm)
+* [Frequency Table](http://www.radioreference.com/apps/db/?aid=7731)
 
 ## SDR (Software Defined Radio)
+
+Software Defined Radio is a way to define components that are typically
+hardware, such as filters and amplifiers, as software. It was been around for a
+while, but with the cost of digital electronics needed to run SDR becoming
+increasingly cheaper, we are seeing a rise in hacker folk playing and building
+with SDR.
 
 I would like contributors for this section.
 
@@ -100,21 +105,48 @@ I would like contributors for this section.
 * [sdrsharp on .NET](http://sdrsharp.com)
 
 ### Hardware
-* __Recommended starter hardware__ On the low end, [RTL-SDR](http://sdr.osmocom.org/trac/wiki/rtl-sdr) is a super-cheap usb dongle, around which a thriving community has been founded.
-* On the other side of the cost spectrum, [pervices](http://www.pervices.com/) makes some really high-throughput, PCIe devices for when you need to log all the traffic ever. The software and community support for this is less good, though (for which you can blame @outofculture).
-* You can also browse through the [big list](https://gnuradio.org/redmine/projects/gnuradio/wiki/Hardware) of all compatible hardware.
-* Antennas are their own body of options and tradeoffs, about which I know nothing.
+* __Recommended starter hardware__ On the low end,
+  [RTL-SDR](http://sdr.osmocom.org/trac/wiki/rtl-sdr) is a super-cheap usb
+  dongle, around which a thriving community has been founded.
+* On the other side of the cost spectrum, [pervices](http://www.pervices.com/)
+  makes some really high-throughput, PCIe devices for when you need to log all
+  the traffic ever. The software and community support for this is less good,
+  though (for which you can blame @outofculture).
+* You can also browse through the [big
+  list](https://gnuradio.org/redmine/projects/gnuradio/wiki/Hardware) of all
+  compatible hardware.
+* Antennas are their own body of options and tradeoffs, about which I know
+  nothing.
 
 ### Software
-Depending on the hardware you're using, it may ship with some demo software to play around with. This is great for just getting a chance to see some waves and start to get an idea of what's possible. Otherwise, [GNU Radio](https://gnuradio.org/redmine/) is going to where you'll spend your time. It's mainly just a library, but it also has a supporting gui for combining processing blocks that then outputs python. Once you're more comfortable, you can also just use GNURadio to do any device tuning, setup and i/o, and then use numpy for the signal manipulation math.
+Depending on the hardware you're using, it may ship with some demo software to
+play around with. This is great for just getting a chance to see some waves and
+start to get an idea of what's possible. Otherwise, [GNU
+Radio](https://gnuradio.org/redmine/) is going to where you'll spend your time.
+It's mainly just a library, but it also has a supporting gui for combining
+processing blocks that then outputs python. Once you're more comfortable, you
+can also just use GNURadio to do any device tuning, setup and i/o, and then use
+numpy for the signal manipulation math.
 
-Just visualizing and manually inspecting a signal is a valuable part of learning how to work with them. [Baudline](http://www.baudline.com/) is a janky old thing, but it's the best there is. Be forewarned that learning the UI won't come easily to anyone.
+Just visualizing and manually inspecting a signal is a valuable part of learning
+how to work with them. [Baudline](http://www.baudline.com/) is a janky old
+thing, but it's the best there is. Be forewarned that learning the UI won't come
+easily to anyone.
 
 ## Amateur Radio (a.k.a Ham Radio)
 
-The hobby of Amateur Radio has a long and proud tradition. The very first radio amateurs were true pioneers of radio technology. Amateurs 'invented' and refined much of the early radio technology and were the first to transmit music, radio plays, and information to the handful of people who had the new fangled radio receivers.
+The hobby of Amateur Radio has a long and proud tradition. The very first radio
+amateurs were true pioneers of radio technology. Amateurs 'invented' and refined
+much of the early radio technology and were the first to transmit music, radio
+plays, and information to the handful of people who had the new fangled radio
+receivers.
 
-After World War II the hobby of amateur radio flourished. Radio clubs sprang up in schools all over the world and kids went home each night to build some new contraption, or have a chat with someone over the wireless. These young people became the mainstay of the technical professions and developed much of the modern technology we use today. ([WIA](http://www.wia.org.au/licenses/foundation/about/))
+After World War II the hobby of amateur radio flourished. Radio clubs sprang up
+in schools all over the world and kids went home each night to build some new
+contraption, or have a chat with someone over the wireless. These young people
+became the mainstay of the technical professions and developed much of the
+modern technology we use today.
+([WIA](http://www.wia.org.au/licenses/foundation/about/))
 
 [What is Ham Radio?](http://www.arrl.org/what-is-ham-radio)
 
@@ -132,10 +164,17 @@ I would like contributors for this section.
 
 ### Amateur Radio License
 
-* In the [US](http://www.arrl.org/getting-licensed) there are three license classes—Technician, General and Extra.
-* [The Foundation Licence](http://www.wia.org.au/licenses/foundation/about/) in Australia.
-* [Foundation Licence] (http://rsgb.org/main/clubs-training/for-students/foundation/) in the UK.
-* In [Pakistan](http://www.pakhams.com/index.php?option=com_content&view=article&id=75&Itemid=92) first you apply for SWL (Short Wave Listener) membership and then you are eligible to [apply for the HAM License](http://www.pta.gov.pk/index.php?option=com_content&view=article&id=466%3Aamateur-wireless-license&catid=138%3Aguidelines&Itemid=349).
+* In the [US](http://www.arrl.org/getting-licensed) there are three license
+  classes—Technician, General and Extra.
+* [The Foundation Licence](http://www.wia.org.au/licenses/foundation/about/) in
+  Australia.
+* [Foundation Licence]
+  (http://rsgb.org/main/clubs-training/for-students/foundation/) in the UK.
+* In
+  [Pakistan](http://www.pakhams.com/index.php?option=com_content&view=article&id=75&Itemid=92)
+  first you apply for SWL (Short Wave Listener) membership and then you are
+  eligible to [apply for the HAM
+  License](http://www.pta.gov.pk/index.php?option=com_content&view=article&id=466%3Aamateur-wireless-license&catid=138%3Aguidelines&Itemid=349).
 
 ## Public Health and Safety
 

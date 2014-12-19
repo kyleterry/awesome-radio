@@ -38,3 +38,8 @@ operating a CB radio.
 ```
 
 Section headlines are h2 (##). Sub headers related to that section are h3 (###).
+
+For readability, please wrap lines at around 80 characters. Most browser will do
+this for you, but a lot of people use `less` to read Markdown. I set `vim` to
+automatically do this for me with `au BufRead,BufNewFile *.markdown,*.md,*.txt
+setlocal spell textwidth=80`.
