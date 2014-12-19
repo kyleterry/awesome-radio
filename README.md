@@ -118,7 +118,7 @@ After World War II the hobby of amateur radio flourished. Radio clubs sprang up 
 
 [What is Ham Radio?](http://www.arrl.org/what-is-ham-radio)
 
-#### Links
+### Links
 
 * American Radio Relay League - [ARRL](http://www.arrl.org/)
 * The Wireless Institute of Australia [WIA](http://www.wia.org.au/)
@@ -136,3 +136,25 @@ I would like contributors for this section.
 * [The Foundation Licence](http://www.wia.org.au/licenses/foundation/about/) in Australia.
 * [Foundation Licence] (http://rsgb.org/main/clubs-training/for-students/foundation/) in the UK.
 * In [Pakistan](http://www.pakhams.com/index.php?option=com_content&view=article&id=75&Itemid=92) first you apply for SWL (Short Wave Listener) membership and then you are eligible to [apply for the HAM License](http://www.pta.gov.pk/index.php?option=com_content&view=article&id=466%3Aamateur-wireless-license&catid=138%3Aguidelines&Itemid=349).
+
+## Public Health and Safety
+
+Police and fire in the United States typically communicate over trunked radio.
+This makes it hard to scan using normal reciever without trunk tracking
+abilities. See more in the [trunking](#trunking) section.
+
+### Trunking
+
+While not strictly specific to public health and safety, it is usually the first
+thing that comes to mind when talking about trunked radio.
+
+Trunked radio is a form of digital-two-way communication where multiple
+organizations can share a small spectrum of real frequencies without hearing
+another organizations conversations. A user can choose a logical channel or
+group and the base station will find an empty frequency to transmit on.
+
+### Links
+
+* [Project 25](http://www.project25.org/)
+* [Project 25 wikipedia](http://en.wikipedia.org/wiki/Project_25)
+* [Trunked Radio wikipedia](http://en.wikipedia.org/wiki/Trunked_radio_system)
