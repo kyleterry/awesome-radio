@@ -92,7 +92,7 @@ for parts, radios, antennas and mounts.
 ## SDR (Software Defined Radio)
 
 Software Defined Radio is a way to define components that are typically
-hardware, such as filters and amplifiers, as software. It was been around for a
+hardware, such as filters and amplifiers, as software. It has been around for a
 while, but with the cost of digital electronics needed to run SDR becoming
 increasingly cheaper, we are seeing a rise in hacker folk playing and building
 with SDR.
