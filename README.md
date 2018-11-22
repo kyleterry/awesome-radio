@@ -21,6 +21,9 @@ learning the ins and outs of radio, as well as hearing stories, new and old.
 * [Mystery signal from a
   helicopter](http://www.windytan.com/2014/02/mystery-signal-from-helicopter.html)
 * [Portable SDR](http://hackaday.io/project/1538-PortableSDR)
+* [N0NBH's Solar-Terrestrial Data](http://www.hamqsl.com/solar2.html) - Current
+solar-terrestrial data, with explanation of their influence on HF propagation
+and propagation forecast.
 
 ## CB
 
