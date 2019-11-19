@@ -2,97 +2,12 @@
 
 A curated list of awesome radio resources. Inspired by awesome-*.
 
-I recently pulled out my CB radio and installed it in my truck. This inspired me
-to create an open source repository of all the radio related resources I found
-helpful and my notes on the subject.
-
 This project is aimed at hackers who enjoy all aspects of radio communication.
 While a lot of this technology isn't usable by citizens and is heavily regulated
 by the FCC, just knowing anything about it is special. I've been interested in
 learning the ins and outs of radio, as well as hearing stories, new and old.
 
-## General
-
-### Links
-
-* [Radio (wikipedia)](http://en.wikipedia.org/wiki/Radio)
-* [Radio Spectrum (wikipedia)](http://en.wikipedia.org/wiki/Radio_spectrum)
-* [Skywave (skip) (wikipedia)](http://en.wikipedia.org/wiki/Skywave)
-* [Mystery signal from a
-  helicopter](http://www.windytan.com/2014/02/mystery-signal-from-helicopter.html)
-* [Portable SDR](http://hackaday.io/project/1538-PortableSDR)
-* [N0NBH's Solar-Terrestrial Data](http://www.hamqsl.com/solar2.html) - Current
-solar-terrestrial data, with explanation of their influence on HF propagation
-and propagation forecast.
-
-## CB
-
-Citizens band radio, or CB, is a two way radio spectrum dedicated to open use by
-anyone for almost any purpose. In the US and many other countries, it
-does not require a license to operate. CB consists of 40 channels between 26.965
-MHz and 27.405 MHz with channel 09 being dedicated to emergencies.
-
-CB is more popular among truckers and radio enthusiasts, but its usefulness
-does not stop there. It's great for long distance travel on popular trucking
-routes. You can tune to channel 19 (an unofficial trucker's channel) and get
-real time traffic updates, alternate routes and accident warnings.
-
-Given a good antenna that's properly tuned, a typical range to expect out of
-your CB is about 2 - 5 miles (3.2 - 8 kilometers).
-
-### General Use
-
-I've found a lot of my information on Jeep and trucker forums. From my own
-experience, it seems about half the CB transmission I hear include a handle of
-some kind. I also hear a lot of swearing, so I wouldn't sweat accidentally
-letting a "fuck" or a "shit" go.
-
-CB is public. Very public. That seems like a "no shit" kind of thing, but with
-the current generation pretty much only using cell phones, it's easy to forget
-that using something as "primitive" as a CB radio is essentially [broadcast to
-the world](http://en.wikipedia.org/wiki/Citizens_band_radio#Working_skip).
-
-Truckers tend to use channel 19. This is a good channel to monitor for traffic
-conditions.
-
-Channel 9 is for emergencies only. No general chatter on this channel. If you
-are broke down, or your car catches fire, besides calling 911, this is a good
-channel to transmit on for help.
-
-Around Portland, I hear a lot of chatter on channels 6, 17 and 28. These are
-good channels for entertaining conversation.
-
-### SWR
-
-[SWR](http://en.wikipedia.org/wiki/Standing_wave_ratio), or Standing Wave Ratio
-is a measurement of efficiency when connecting your antenna to your radio.
-
-Optimum ratio is 1:1, although you'll probably end up with 1.3:1 or so. Anything
-higher than 2:1 should be considered a no-no since it can damage your radio and
-give poor transmission. Read up on [how to tune
-SWR](http://www.rightchannelradios.com/tuning-cb-antenna-adjusting-swr).
-
-### Installing a mobile CB
-
-Installing your CB right is key to A) not damaging your radio hardware and B)
-getting good range and quality on both the receiving and transmitting ends.
-
-Following the advice in the following articles will ensure you have a quality
-setup.
-
-### Links
-
-* [Right Channel Radios](http://www.rightchannelradios.com/) - Good online shop
-for parts, radios, antennas and mounts.
-* [CB Slang](http://www.cbslang.com/) - mostly humorous, but kinda helpful.
-* [CB Slang (wikipedia)](http://en.wikipedia.org/wiki/List_of_CB_slang)
-* [CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)
-* [Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)
-* [Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)
-* [CB FAQ](http://www.advancedspecialties.net/cb-radio-faq.htm)
-* [Frequency Table](http://www.radioreference.com/apps/db/?aid=7731)
-
-## SDR (Software Defined Radio)
+You can find some information at [wiki](../../wiki).
 
 Software Defined Radio is a way to define components that are typically
 hardware, such as filters and amplifiers, as software. It has been around for a
@@ -102,12 +17,7 @@ with SDR.
 
 I would like contributors for this section.
 
-### Links
-
-* [Gqrx](http://gqrx.dk/)
-* [sdrsharp on .NET](http://sdrsharp.com)
-
-### Hardware
+## Hardware
 * __Recommended starter hardware__ On the low end,
   [RTL-SDR](http://sdr.osmocom.org/trac/wiki/rtl-sdr) is a super-cheap usb
   dongle, around which a thriving community has been founded.
@@ -120,8 +30,11 @@ I would like contributors for this section.
   compatible hardware.
 * Antennas are their own body of options and tradeoffs, about which I know
   nothing.
+  
+### Links
+* [Portable SDR](http://hackaday.io/project/1538-PortableSDR)
 
-### Software
+## Software
 Depending on the hardware you're using, it may ship with some demo software to
 play around with. This is great for just getting a chance to see some waves and
 start to get an idea of what's possible. Otherwise, [GNU
@@ -136,48 +49,37 @@ how to work with them. [Baudline](http://www.baudline.com/) is a janky old
 thing, but it's the best there is. Be forewarned that learning the UI won't come
 easily to anyone.
 
-## Amateur Radio (a.k.a Ham Radio)
-
-The hobby of Amateur Radio has a long and proud tradition. The very first radio
-amateurs were true pioneers of radio technology. Amateurs 'invented' and refined
-much of the early radio technology and were the first to transmit music, radio
-plays, and information to the handful of people who had the new fangled radio
-receivers.
-
-After World War II the hobby of amateur radio flourished. Radio clubs sprang up
-in schools all over the world and kids went home each night to build some new
-contraption, or have a chat with someone over the wireless. These young people
-became the mainstay of the technical professions and developed much of the
-modern technology we use today.
-([WIA](http://www.wia.org.au/licenses/foundation/about/))
-
-[What is Ham Radio?](http://www.arrl.org/what-is-ham-radio)
-
 ### Links
 
-* American Radio Relay League - [ARRL](http://www.arrl.org/)
-* The Wireless Institute of Australia [WIA](http://www.wia.org.au/)
-* Radio Society of Great Britain - [RSGB](http://rsgb.org/)
-* Pakistan Amateur Radio Society - [PARS](http://www.pakhams.com/)
-* [The International Amateur Radio Union](http://www.iaru.org/)
-* [Japanese asteroid mission](http://www.arrl.org/news/amateur-radio-transponder-will-accompany-japanese-asteroid-mission-into-deep-space)
-* [Slow-scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
+* [Gqrx](http://gqrx.dk/)
+* [sdrsharp on .NET](http://sdrsharp.com)
+* [some gr sketches](https://github.com/evan-schaffer/GNURadioSDR)
+* [Shinysdr project](https://github.com/kpreid/shinysdr)
+* [UHF RFID reader for lime](https://github.com/DasSidG/limesdr_rfid)
+* [SDR Educational Tools For Raspberry Pi](https://github.com/myriadrf/ScratchRadio)
+* [Oscilloscope tool](https://github.com/analogdevicesinc/scopy)
+* [audio filter for GR](https://github.com/ntoulasd/DSP)
+* [Interesting encoders/decoders for GR](https://github.com/mberntsen/gnuradio-plugins)
+* [ACARS decoders](https://github.com/mmmaaaxxx/SUPACARS)
+* [Cool phosphor spectrum](http://osmocom.org/projects/sdr/wiki/fosphor)
+* [example for gr-fosphor](https://github.com/g0hww/qtrfiq)
+* [goTenna Mesh](https://github.com/argilo/gr-tenna)
+* [M100 DJI controlling](https://github.com/sunytux/GnuRadio-DJI_channel)
+* [RF transmitter for Raspberry Pi (only GPIO needed)](https://github.com/F5OEO/rpitx)
 
-I would like contributors for this section.
 
-### Amateur Radio License
+#### Keyless remote
 
-* In the [US](http://www.arrl.org/getting-licensed) there are three license
-  classes—Technician, General and Extra.
-* [The Foundation Licence](http://www.wia.org.au/licenses/foundation/about/) in
-  Australia.
-* [Foundation Licence]
-  (http://rsgb.org/main/clubs-training/for-students/foundation/) in the UK.
-* In
-  [Pakistan](http://www.pakhams.com/index.php?option=com_content&view=article&id=75&Itemid=92)
-  first you apply for SWL (Short Wave Listener) membership and then you are
-  eligible to [apply for the HAM
-  License](http://www.pta.gov.pk/index.php?option=com_content&view=article&id=466%3Aamateur-wireless-license&catid=138%3Aguidelines&Itemid=349).
+* [Remote keyless, include good paper](https://github.com/tharina/RKE)
+* [Jamming and replay RKE](https://github.com/darvarr/jamming-and-replay)
+
+#### GPS
+
+* [GPS simulation](https://github.com/emlyons2014/gps-sim)
+* [Software correlator for GPS](https://github.com/psas/gps)
+* [http://sdrgps.blogspot.com](https://github.com/hahnpv/sdrgps)
+* [SDR GPS receiver](https://github.com/ajinkyagorad/GPSrx)
+* [GPS simulation](https://github.com/ookk2011/GNSS-GPS-SDR)
 
 ## Public Health and Safety
 
