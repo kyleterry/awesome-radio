@@ -158,6 +158,7 @@ modern technology we use today.
 * American Radio Relay League - [ARRL](http://www.arrl.org/)
 * The Wireless Institute of Australia [WIA](http://www.wia.org.au/)
 * Radio Society of Great Britain - [RSGB](http://rsgb.org/)
+* The Amateur Radio Society Of India - [ARSI](https://arsi.info/)
 * Pakistan Amateur Radio Society - [PARS](http://www.pakhams.com/)
 * [The International Amateur Radio Union](http://www.iaru.org/)
 * [Japanese asteroid mission](http://www.arrl.org/news/amateur-radio-transponder-will-accompany-japanese-asteroid-mission-into-deep-space)
