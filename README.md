@@ -162,6 +162,7 @@ modern technology we use today.
 * [The International Amateur Radio Union](http://www.iaru.org/)
 * [Japanese asteroid mission](http://www.arrl.org/news/amateur-radio-transponder-will-accompany-japanese-asteroid-mission-into-deep-space)
 * [Slow-scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
+* [Easy Morse Code Translator](https://easymorsecodetranslator.com/)
 
 I would like contributors for this section.
 
